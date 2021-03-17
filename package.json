@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"webpack": "^5.26.3",
+		"webpack-cli": "^4.5.0",
+		"webpack-manifest-plugin": "^3.1.0"
+	}
+}
